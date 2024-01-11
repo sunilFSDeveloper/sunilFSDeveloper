@@ -15,7 +15,7 @@ Constantly exploring new technologies to stay ahead in the dynamic world of web 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sunilshinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilshinde" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sunil-shinde-7aa39b100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilshinde" height="30" width="40" /></a>
 </p>
 
 ### 🎯 Goals
